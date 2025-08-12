@@ -2389,3 +2389,19 @@ section,
 	max-width: 80px;
 	border; 1px solid red;
 }
+
+/*
+	lessons.html 
+	Групповые занятия
+*/
+
+.pricegreen {
+	font-size: 22px;
+	line-height: 26px;	
+	color: #000000;
+	max-width: 750px;
+}
+.pricegreen p {
+	padding: 10px 0px 10px 50px ;
+	background: #25ed9b;
+}
